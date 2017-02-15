@@ -1,0 +1,10 @@
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MDIParentExample\MDIParentExample\bin\Debug\MDIParentExample.exe.config
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MDIParentExample\MDIParentExample\obj\Debug\MDIParentExample.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MDIParentExample\MDIParentExample\obj\Debug\MDIParentExample.Form1.resources
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MDIParentExample\MDIParentExample\obj\Debug\MDIParentExample.MDIParent1.resources
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MDIParentExample\MDIParentExample\obj\Debug\MDIParentExample.Properties.Resources.resources
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MDIParentExample\MDIParentExample\obj\Debug\MDIParentExample.csproj.GenerateResource.Cache
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MDIParentExample\MDIParentExample\bin\Debug\MDIParentExample.exe
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MDIParentExample\MDIParentExample\bin\Debug\MDIParentExample.pdb
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MDIParentExample\MDIParentExample\obj\Debug\MDIParentExample.exe
+C:\Users\usuario\Documents\Visual Studio 2015\Projects\MDIParentExample\MDIParentExample\obj\Debug\MDIParentExample.pdb
